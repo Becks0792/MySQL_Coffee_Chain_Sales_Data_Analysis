@@ -1,4 +1,3 @@
-# SQL-Data-Analysis
 
 **Project Overview:****
 The Coffee Chain Sales Analysis project was conducted to analyze the performance of a coffee chain across various U.S. locations using data from Kaggle. The dataset consisted of 1,063 records and 21 attributes related to sales performance, cost, and market conditions.
@@ -12,9 +11,13 @@ The Coffee Chain Sales Analysis project was conducted to analyze the performance
 **Key Steps in the Analysis:**
 
 **Data Loading and Normalization:** Raw data was loaded into MySQL and normalized into relational tables that meet the third normal form (3NF), ensuring data integrity and reducing redundancy.
+
 **Schema Creation:** Developed a dimensional model to organize data into a combination of fact and dimension tables, making it easier to perform analytical queries.
+
 **Fact Tables:** Included key metrics like sales and targets.
+
 **Dimension Tables:** Included product details, market information, and geographical data.
+
 **Analytical Queries and Reporting:** 
 Performed complex SQL queries to derive insights from the data. Key performance indicators (KPIs) such as total expenses, margins, sales, and profits were calculated.
 Analyzed product and market performance, seasonal trends, and target achievements.
