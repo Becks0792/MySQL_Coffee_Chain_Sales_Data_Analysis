@@ -1,5 +1,5 @@
 
-**Project Overview:****
+**Project Overview:**
 The Coffee Chain Sales Analysis project was conducted to analyze the performance of a coffee chain across various U.S. locations using data from Kaggle. The dataset consisted of 1,063 records and 21 attributes related to sales performance, cost, and market conditions.
 
 **Tools and Techniques Used:**
