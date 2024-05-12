@@ -26,10 +26,15 @@ The Coffee Chain Sales Analysis project was conducted to analyze the performance
 **Outcomes and Insights:**
 
 **Profitable Product Lines:** Beans and Leaves are identified as the most profitable product lines. Focusing on these could maximize profit margins.
+
 **State-Level Performance:** California is the leading state in terms of sales, while New York has the highest expenses. This suggests potential for optimizing operations and costs in New York.
+
 **Target Sales & Profit Achievement:** Products like Lemon Tea and Darjeeling tea consistently exceed sales as well profit targets, indicating strong market demand and effective sales strategies for these items.
+
 **Market Analysis:** Major markets contribute significantly to overall sales as compared to small markets.
+
 **Expense Management:** The East and Central markets are more profitable compared to other regions, suggesting more efficient operations or lower costs.
+
 **Year-on-Year Sales Trends:** Sales saw significant growth from 2012 to 2014, before a 20% drop in 2015, while inventory margins steadily increased each year which suggests improved profitability per product sold.
 
 
