@@ -19,19 +19,21 @@ The Coffee Chain Sales Analysis project was conducted to analyze the performance
 **Dimension Tables:** Included product details, market information, and geographical data.
 
 **Analytical Queries and Reporting:** 
-Performed complex SQL queries to derive insights from the data. Key performance indicators (KPIs) such as total expenses, margins, sales, and profits were calculated.
-Analyzed product and market performance, seasonal trends, and target achievements.
-Examined the correlation between inventory margins and sales volumes, and compared state-level sales and expense data.
+- Performed complex SQL queries to derive insights from the data. Key performance indicators (KPIs) such as total expenses, margins, sales, and profits were calculated.
+- Analyzed product and market performance, seasonal trends, and target achievements.
+- Examined the correlation between inventory margins and sales volumes, and compared state-level sales and expense data.
 
 **Outcomes and Insights:**
 
-Identified the most profitable and popular product lines and types.
-Determined which states and markets are performing best in terms of sales and profits.
-Provided recommendations for focusing on high-performing products and optimizing expenses in less profitable markets.
+**Profitable Product Lines:** Beans and Leaves are identified as the most profitable product lines. Focusing on these could maximize profit margins.
+**State-Level Performance:** California is the leading state in terms of sales, while New York has the highest expenses. This suggests potential for optimizing operations and costs in New York.
+**Target Sales & Profit Achievement:** Products like Lemon Tea and Darjeeling tea consistently exceed sales as well profit targets, indicating strong market demand and effective sales strategies for these items.
+**Market Analysis:** Major markets contribute significantly to overall sales as compared to small markets.
+**Expense Management:** The East and Central markets are more profitable compared to other regions, suggesting more efficient operations or lower costs.
+**Year-on-Year Sales Trends:** Sales saw significant growth from 2012 to 2014, before a 20% drop in 2015, while inventory margins steadily increased each year which suggests improved profitability per product sold.
 
-**Challenges Faced:**
 
-Managing data redundancy and query complexity due to the comprehensive nature of the dimensional modeling.
-Ensuring performance efficiency and maintaining the updated schema during the analysis.
+
+
 
 
